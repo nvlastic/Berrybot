@@ -2,7 +2,6 @@ import RPi.GPIO as GPIO
 import time
 import pygame
 
-
 win = pygame.display.set_mode((500,500))
 pygame.display.set_caption("Berrybot")
 
